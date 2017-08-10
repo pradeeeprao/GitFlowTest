@@ -1,4 +1,5 @@
 UseriD: Textbox
 Password: Textbox
 //Added captcha
+//Fixed cpatcha bug
 Submit
